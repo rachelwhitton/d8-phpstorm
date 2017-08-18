@@ -15,6 +15,7 @@
     "drupal-composer/drupal-scaffold": "^2.0.1",
     "drupal/config_direct_save": "^1.0",
     "drupal/config_installer": "^1.0",
+      "drupal/address": "~1.0",
     "drupal/console": "^1.0.0-rc8",
     "drupal/core": "^8",
     "drupal/pathauto": "~1.0",
